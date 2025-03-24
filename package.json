@@ -1,0 +1,34 @@
+{
+  "name": "@transformation-leaders/react-native-audio-pcm-stream",
+  "version": "1.1.6",
+  "description": "Get audio PCM stream data for React Native",
+  "license": "MIT",
+  "keywords": [
+    "live stream",
+    "react-native",
+    "audio",
+    "live",
+    "recording",
+    "voice",
+    "pcm"
+  ],
+  "main": "index.js",
+  "homepage": "https://github.com/Transformation-Leaders/react-native-audio-pcm-stream",
+  "bugs": {
+    "url": "https://github.com/Transformation-Leaders/react-native-audio-pcm-stream/issues",
+    "email": "chris@transformation-leaders.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Transformation-Leaders/react-native-audio-pcm-stream.git"
+  },
+  "author": "Christoph Feldmeier <chris@transformation-leaders.com> (https://www.transformation-leaders.com/)",
+  "devDependencies": {
+    "babel-eslint": "^8.2.3",
+    "eslint": "^4.19.1",
+    "eslint-plugin-prettier": "^2.6.0",
+    "prettier": "^1.12.0"
+  },
+  "dependencies": {},
+  "peerDependencies": {}
+}
